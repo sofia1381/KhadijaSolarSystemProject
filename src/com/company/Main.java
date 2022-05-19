@@ -15,5 +15,12 @@ public class Main {
         Xfact.color="green";
         Xfact.radius="1000000000km";
         Xfact.heat="309324934898kj";
+
+
+        //add features for planet2
+        Planet2 Olso = new Planet2();
+        Olso.name="Ozhan";
+        Olso.size="694254km";
+        Olso.color="pink";
     }
 }
